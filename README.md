@@ -1,6 +1,4 @@
-Sure! I’ll take it up a notch, giving it a more futuristic, cutting-edge feel. Think sleek design, vibrant language, and bold visual elements:
 
----
 
 # ⚡ **Swift-Note** | _Elevate Your Command-Line Notetaking Experience_ 📝✨
 
