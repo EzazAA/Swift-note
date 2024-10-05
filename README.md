@@ -133,8 +133,7 @@ This project is released under the **MIT License** – see the [LICENSE](LICENSE
 
 Let’s build the future together! If you have feedback, suggestions, or just want to say hi, reach out to us:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **Twitter**: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- **Email**: [your-email@example.com](mailto:ezazalamahmed@com)
 
 ---
 
